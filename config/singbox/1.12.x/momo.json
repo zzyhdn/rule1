@@ -15,7 +15,7 @@
     "independent_cache": true
   },
   "outbounds": [
-    {"tag": "🚀 默认代理", "type": "selector", "outbounds": ["♻️ 自动选择", "🇭🇰 🇰🇷 韩国手动", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动", "🐸 手动选择"]},
+    {"tag": "🚀 默认代理", "type": "selector", "outbounds": ["♻️ 自动选择", "🇰🇷 韩国手动", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动", "🐸 手动选择"]},
     {"tag": "🧠 AI", "type": "selector", "outbounds": ["🚀 默认代理", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动"]},
     {"tag": "📹 YouTube", "type": "selector", "outbounds": ["🚀 默认代理", "🇰🇷 韩国手动", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动", "🐸 手动选择"]},
     {"tag": "🍀 Google", "type": "selector", "outbounds": ["🚀 默认代理", "🇰🇷 韩国手动", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动", "🐸 手动选择"]},
