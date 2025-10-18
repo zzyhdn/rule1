@@ -29,7 +29,7 @@
     {"tag": "🐬 OneDrive", "type": "selector", "outbounds": ["🎯 全球直连", "🇰🇷 韩国手动", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动"]},
     {"tag": "🍏 Apple", "type": "selector", "outbounds": ["🎯 全球直连", "🇰🇷 韩国手动", "🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动"]},
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
-    {"tag": "🇰🇷 韩国手动", "type": "selector","outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇰🇷|KR|kr|韩国|韩|Korea"]}, {"action": "exclude", "keywords": ["免费"]}]}
+    {"tag": "🇰🇷 韩国手动", "type": "selector", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇰🇷|KR|kr|韩国|韩|Korea"]}, {"action": "exclude", "keywords": ["免费"]}]}
     {"tag": "🇭🇰 香港手动", "type": "selector", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇭🇰|HK|hk|香港|港|HongKong"]}, {"action": "exclude", "keywords": ["免费"]}]},
     {"tag": "🇯🇵 日本手动", "type": "selector", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇯🇵|JP|jp|日本|日|Japan"]}, {"action": "exclude", "keywords": ["免费"]}]},
     {"tag": "🇸🇬 狮城手动", "type": "selector", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["新加坡|坡|狮城|SG|Singapore"]}, {"action": "exclude", "keywords": ["免费"]}]},
