@@ -43,7 +43,7 @@
     "rules": [
       {"action": "sniff", "sniffer": ["http", "tls", "quic", "dns"]},
       {"inbound": "dns-in", "action": "hijack-dns"},
-      {"domain": ["bigo.tv", "bigo.live"], "outbound": "🚀 默认代理"}
+      {"domain": ["bigo.tv", "bigo.live"], "outbound": "🚀 默认代理"},
       {"ip_is_private": true, "outbound": "🎯 全球直连"},
       {"clash_mode": "direct", "outbound": "🎯 全球直连"},
       {"clash_mode": "global", "outbound": "GLOBAL"},
